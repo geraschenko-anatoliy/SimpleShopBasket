@@ -1,0 +1,5 @@
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\SimpleShopBasket\bin\Debug\SimpleShopBasket.exe.config
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\SimpleShopBasket\bin\Debug\SimpleShopBasket.exe
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\SimpleShopBasket\bin\Debug\SimpleShopBasket.pdb
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\SimpleShopBasket\obj\Debug\SimpleShopBasket.exe
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\SimpleShopBasket\obj\Debug\SimpleShopBasket.pdb

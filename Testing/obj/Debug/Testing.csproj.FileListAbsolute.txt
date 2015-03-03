@@ -1,0 +1,7 @@
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\obj\Debug\Testing.csprojResolveAssemblyReference.cache
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\bin\Debug\Testing.dll
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\bin\Debug\Testing.pdb
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\bin\Debug\SimpleShopBasket.exe
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\bin\Debug\SimpleShopBasket.pdb
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\obj\Debug\Testing.dll
+c:\users\geras_000\documents\visual studio 2013\Projects\SimpleShopBasket\Testing\obj\Debug\Testing.pdb
